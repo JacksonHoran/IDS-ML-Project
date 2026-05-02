@@ -1,0 +1,6 @@
+.DS_Store
+cleaned_raw_data.csv
+cleaned_raw_data.json
+cleaned_raw_data.parquet
+/graphs
+etl_log_file.txt
